@@ -149,6 +149,7 @@ To handle automatic language detection, you need to implement a language detecti
 
 Install langdetect
 python -m pip install langdetect
+python -m pip install gtts playsound
 
 python -m pip install gtts playsound langdetect
 python -m pip install pygame
